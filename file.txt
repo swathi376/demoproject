@@ -4,3 +4,4 @@ hello
 welocme
 hello
 main
+pointer
